@@ -1,0 +1,8 @@
+*.class
+*.ear
+*.nar
+*.classpath
+*.project
+*.settings/
+ bin/
+ 

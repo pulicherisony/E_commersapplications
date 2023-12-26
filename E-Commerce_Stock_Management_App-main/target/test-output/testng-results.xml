@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-22T17:35:51 IST" name="Default suite" finished-at="2023-12-22T17:35:51 IST" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2023-12-22T17:35:51 IST" name="Default test" finished-at="2023-12-22T17:35:51 IST" duration-ms="47">
+      <class name="com.simplilearn.testng.Test.StockManagementTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.simplilearn.testng.Test.StockManagementTest@729d991e]" started-at="2023-12-22T17:35:51 IST" name="setUp" finished-at="2023-12-22T17:35:51 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchProductExists()[pri:0, instance:com.simplilearn.testng.Test.StockManagementTest@729d991e]" started-at="2023-12-22T17:35:51 IST" name="testSearchProductExists" finished-at="2023-12-22T17:35:51 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProductExists -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.simplilearn.testng.Test.StockManagementTest@729d991e]" started-at="2023-12-22T17:35:51 IST" name="setUp" finished-at="2023-12-22T17:35:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchProductNotExists()[pri:0, instance:com.simplilearn.testng.Test.StockManagementTest@729d991e]" started-at="2023-12-22T17:35:51 IST" name="testSearchProductNotExists" finished-at="2023-12-22T17:35:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProductNotExists -->
+      </class> <!-- com.simplilearn.testng.Test.StockManagementTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
